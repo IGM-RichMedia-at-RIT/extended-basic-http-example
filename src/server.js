@@ -1,4 +1,4 @@
-const http = require('http'); 
+const http = require('http');
 const fs = require('fs');
 
 const port = process.env.PORT || process.env.NODE_PORT || 3000;
